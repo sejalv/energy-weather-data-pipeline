@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The energy market compute forecasts via machine learning.
+The energy market computes forecasts via machine learning.
 This project implements a weather data pipeline that ingests German weather data from the DWD (German Weather Service) via BrightSky API, and transforms the provided observations and forecasts at postal code granularity, ready to be consumed for downstream ML services.
 
 ### Key Features
